@@ -1,2 +1,0 @@
-# School-management-
-<HTML>
